@@ -51,8 +51,7 @@
     color: black;
 }
 
-   .banner-button 
-   {
+.banner-button {
     background-color: #4f46e5;
     color: #fff;
     padding: 12px 24px;
@@ -62,60 +61,18 @@
     font-size: 16px;
     border: none;
     transition: background 0.3s ease;
-    display: block; /* Changes to block for centering */
-    margin: 0 auto; /* Centers the button horizontally */
-    width: fit-content; /* Ensures the button width fits its content */
+    display: block;
+    margin: 0 auto; 
+    width: fit-content; 
 }
+
 .banner-button:hover {
     background-color: orange;
 }
+
 .header{
     background-image: url('../Assets/Hero-bg.png');
 }
-/* action-section-styling */
-/* .action-title{
-    font-size: 30px;
-    font-weight: bold;
-    color: #2C2432;
-}
-.action-subtitle{
-    font-size: 20px;
-    color: #252432;
-    margin-top: 10px;
-}
-.lunch-button {
-    background-color: #6a5acd; 
-    color: white;
-    padding: 16px 32px; 
-    border: 2px solid #6a5acd; 
-    font-size: 1.1em;
-    font-weight: 600;
-    cursor: pointer;
-    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
-    text-decoration: none; 
-    display: inline-block; 
-}
-
-.launch-button:hover {
-    background-color: white; /* White background on hover */
-    /* color: #6a5acd; 
-    border-color: #6a5acd; 
-}  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .inter-bold {
   font-family: "Inter", sans-serif;
@@ -138,13 +95,13 @@
   flex-direction: column;
   padding-bottom: 158px;
 }
+
 .hero-section h2 {
   font-size: 65px;
 }
 .secondaary-bg {
   background-color: rgba(78, 71, 255, 0.1);
 }
-
 .raleway-bold {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: bold;
@@ -162,6 +119,7 @@
   align-items: center;
   justify-content: space-between;
 }
+
 .btn-primary {
   width: 132px;
   height: 48px;
@@ -181,6 +139,7 @@
   width: 99px;
   height: 51px;
 }
+
 #focus-btn {
   width: 174px;
   height: 48px;
@@ -259,11 +218,13 @@ padding: 50px 80px;
   justify-content: center;
   align-items: center;
 }
+
 .stat div h2{
   font-size: 80px;
   color: #4E47FF;
   margin: 0px;
 }
+
 .stat div p{
   font-size: 20px;
   color: #0000007a;
@@ -292,6 +253,7 @@ main {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  font-weight: bolder;
 }
 /* card-style */
 
@@ -530,6 +492,8 @@ section textarea {
   border: none;
   background-color: #4E47FF;
   transition: background-color 0.3s ease, transform 0.2s ease;
+  color: thistle;
+  font-weight: bolder;
 
 }
 
