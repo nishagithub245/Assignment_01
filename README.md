@@ -14,7 +14,7 @@ Built to help users stay focused, take action, and engage with your product.
 - Fully customizable and clean codebase
 
 ## 📸 Live Preview
-[👉 Check it out](https://nishagithub245.github.io/Assignment_01/)
+👉 Check it out---- "https://nishagithub245.github.io/focusflow-landing/"
 
 ## 📂 Getting Started
 1. Clone the repo  
