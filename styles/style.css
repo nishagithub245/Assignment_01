@@ -287,7 +287,7 @@ body {
 .card:hover {
   transform: translateY(-5px);
 }
-
+/* stars styling */
 .star-icon {
   color: #fbbf24;
   font-size: 24px;
@@ -296,6 +296,13 @@ body {
   justify-content: flex-start left;
   gap: 8px;
 }
+/* .star-icon img {
+  width: 24px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+.star-icon img:hover{
+  color:green;
+} */
 .title {
   font-size: 20px;
   font-weight: bold;
